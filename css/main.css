@@ -113,6 +113,14 @@ body h1{
     height: 70vh;
 }
 
+.glyphicon-chevron-left:before {    
+    font-size: 80px;
+}
+
+.glyphicon-chevron-right:before {    
+    font-size: 80px;
+}
+
 footer{
 	text-align: center;
 	margin-top: 50px;
@@ -126,9 +134,6 @@ footer h4{
 	font-size: 20px;
 }
 
-footer img{
-		
-}
 
 
 
